@@ -60,3 +60,5 @@ Other tools may compose with PNE, but PNE depends on nothing else.
 ## Reference
 
 Canonical specification, guarantees, and examples are defined in this repository.
+
+https://stealtheyellc.itch.io/pne
